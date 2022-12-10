@@ -11,6 +11,7 @@ Note that d = 1/ω, where d is distance measured in parsecs and ω is parallax m
 2. Luminosity and Temperature
 Calculate the Luminosity of stars in your cluster using M. Compare the luminosity that you have derived with the actual luminosity of the stars using lum_val. Do the same for effective Temperature and Radius of the stars in your cluster and compare with actual values of temperature (teff_val) and radius (radius_val).
 M = 4.77 − 2.5log(L/Lo)
+
 TK = 5601/(color + 9.4)<sup>2/3</sup>
 
 Color is represented by bp_rp. Don’t forget to drop Null values in your data which could lead to possible errors.
